@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 8891765617715195686}
   - component: {fileID: 8891765617715195687}
   - component: {fileID: 8891765617715195704}
-  - component: {fileID: 408607899}
   m_Layer: 0
   m_Name: Player
   m_TagString: Respawn
@@ -148,25 +147,10 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8891765617715195709}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c7325fa63c46548458c8979ffa297688, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movement: 0
-  speed: 8
---- !u!114 &408607899
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8891765617715195709}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7701073ba0e56841bbab04f983bf6a6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Rigid: {fileID: 0}
   movement: 0
   speed: 8
