@@ -1,7 +1,10 @@
 # 🏓 Pong-Remake
 #### I felt like I needed to make simpler games to really learn the fundamentals of the Unity Engine so I re-made the pong game. I had already worked on slightly more complicated projects with some friends but I always felt a bit shaky on actual development.
-- Very basic graphics and gameplay
+- Very basic graphics and gameplay.
 - I didn't know that the direction of the ball is determined by where it hits the paddle, so that's not a feature. Will add some time soon.
+
+## ✅ TODO
+- Direction of ball determined by where it hits paddle
 
 ## 🧰 Tech Stack
 - Unity 2021.3.11f1
